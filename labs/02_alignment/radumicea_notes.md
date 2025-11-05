@@ -1,0 +1,3 @@
+- I used TP53 dataset.
+- Global alignment when the sequences are roughly the same length and share overall homology.
+- Local alignment when we want to find the best matching region within unrelated sequences.
