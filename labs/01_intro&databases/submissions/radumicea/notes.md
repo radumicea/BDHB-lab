@@ -1,0 +1,2 @@
+- I did run all demo scripts and the exercise.
+- A simple result observed: NM_000546.6     GC=0.534
