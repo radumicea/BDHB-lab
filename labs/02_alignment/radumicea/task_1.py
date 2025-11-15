@@ -19,7 +19,7 @@ def p_distance(s1: str, s2: str) -> float:
 
 
 def compute_distance_matrix(recs, use_hamming=False):
-    n = len(seqs)
+    n = len(recs)
     seqs = [str(r.seq) for r in recs]
     ids = [rec.id for rec in recs]
     mat = [[0.0] * n for _ in range(n)]
